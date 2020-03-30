@@ -1,5 +1,5 @@
 # Prolog Programs
-Solutions of Logic in Computer Science problems in Prolog.
+Solutions of Logic in Computer Science problems in Prolog. Following are descriptions of implemented programs
 
 ## Insertion Sort: 
 Implemention of the insertion sort, isort(X, Y), where X is a list of integers and Y is the result of sorting X.
